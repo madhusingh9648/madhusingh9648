@@ -7,7 +7,6 @@
 
 ## 🚀 About Me  
 - 🎯 Passionate about **data analysis, visualization, and problem-solving**  
-- 📚 Completed certifications in **Python** and **Data Analysis**  
 - 📈 Experienced in **data cleaning, statistical analysis, and dashboard creation**  
 - 💡 Always learning new tools & techniques in the data world  
 
@@ -17,14 +16,14 @@
 **Languages & Tools**  
 - **Programming:** Python (Pandas, NumPy, Matplotlib)  
 - **Databases:** SQL (PostgreSQL, MySQL)  
-- **Visualization:** Power BI, Excel (Pivot Tables, Charts, Dashboards)  
+- **Visualization:** Power BI, Excel
 - **Other:** Git, GitHub, Jupyter Notebook  
 
 ---
 
 ## 📫 Connect With Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/madhu-singh-73b209225)
-- 📧 Email: your.email@example.com  
+- 📧 Email: m4madhu9648@gmail.com  
 
 ---
 
