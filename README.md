@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhu Singh  
 
-<!--
-**madhusingh9648/madhusingh9648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**  
+📍 Based in India | 📊 Turning raw data into insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎯 Passionate about **data analysis, visualization, and problem-solving**  
+- 📚 Completed certifications in **Python** and **Data Analysis**  
+- 📈 Experienced in **data cleaning, statistical analysis, and dashboard creation**  
+- 💡 Always learning new tools & techniques in the data world  
+
+---
+
+## 🛠 Skills  
+**Languages & Tools**  
+- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Databases:** SQL (PostgreSQL, MySQL)  
+- **Visualization:** Power BI, Excel (Pivot Tables, Charts, Dashboards)  
+- **Other:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/madhu-singh-73b209225)
+- 📧 Email: your.email@example.com  
+
+---
+
+⭐ *“Data is the new oil, but insight is the new gold.”*  
