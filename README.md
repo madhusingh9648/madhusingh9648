@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhu Singh  
 
-💻 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**  
+💻 ** Data Analyst | Python | SQL | Excel | Power BI**  
 📍 Based in India | 📊 Turning raw data into insights  
 
 ---
